@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "329117941132",
+    "project_id": "weekfirebaseapp",
+    "storage_bucket": "weekfirebaseapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329117941132:android:ddf8f57ed75dccd7772aa9",
+        "android_client_info": {
+          "package_name": "somiah.jad.weekfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329117941132-7gmr8tmmahtnsqjgfm6qtf41afqhc0p9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "somiah.jad.weekfirebaseapp",
+            "certificate_hash": "7de9a93aad001a96b48321edb95190724ccb6bf8"
+          }
+        },
+        {
+          "client_id": "329117941132-da8ve1ae71ovnul0ljr27rstltib2jbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd2G45mmbjSuUAUU8Sll_OprxEPxrRG6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329117941132-da8ve1ae71ovnul0ljr27rstltib2jbm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
