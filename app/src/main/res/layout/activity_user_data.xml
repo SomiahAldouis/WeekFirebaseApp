@@ -5,12 +5,23 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".UserDataActivity">
-    <TextView
+    tools:context=".UserDataActivity"
+    android:orientation="vertical">
+    <EditText
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="Data"
-        android:textSize="50dp"
-        android:gravity="center"/>
+        android:layout_height="wrap_content"
+        android:id="@+id/title"
+        android:hint="enter title"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/detail"
+        android:hint="enter detail"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/add_btn"
+        android:text="Add"/>
+
 
 </LinearLayout>
